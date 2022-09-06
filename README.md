@@ -1,2 +1,4 @@
 # bin
-All of my scirpts. Currenly located in /usr/local/bin.
+A collection of scripts for my Linux machine.
+
+Location: /usr/local/bin
